@@ -204,5 +204,3 @@ sns.barplot(
 ax.set_ylabel("Mean Rentals")
 st.pyplot(fig)
 
-# Plot 5: Day period (CI)
-st
